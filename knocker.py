@@ -1,4 +1,4 @@
-root@kali:~/Desktop/tools# cat knocker.py 
+
 from itertools import permutations
 import socket
 
